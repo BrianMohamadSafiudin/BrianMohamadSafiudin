@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrianMohamadSafiudin
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java, kotlin, and phyton 
-- 💞️ I’m looking to collaborate on AndroidSudio
+- 💞️ I’m looking to collaborate on AndroidStudio
 - 📫 How to reach me instagram @brianms08
 
 <!---
