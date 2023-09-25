@@ -35,9 +35,9 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en&layout=compact" alt="BrianMohamadSafiudin" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en" alt="BrianMohamadSafiudin" /></p>
-
 <div align="left">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en" alt="BrianMohamadSafiudin" /></p>
