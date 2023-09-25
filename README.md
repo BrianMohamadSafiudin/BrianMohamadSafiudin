@@ -3,7 +3,7 @@ BrianMohamadSafiudin/BrianMohamadSafiudin is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** </h3>
+<h3> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> &nbsp;About me .... </h3>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 330px></picture>
 
@@ -33,11 +33,15 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api username=BrianMohamadSafiudin&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianMohamadSafiudin&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en&layout=compact" alt="GitHub Most Used Languages" height="200" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en" alt="BrianMohamadSafiudin" /></p>
+
 <div align="left">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en&layout=compact" alt="BrianMohamadSafiudin" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en" alt="BrianMohamadSafiudin" /></p>
