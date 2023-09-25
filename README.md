@@ -4,11 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">
-Hi, I'm Brian Safiudin!
+Hi, I'm Brian Mohamad Safiudin!
 	<a href="https://github.com/Bouaskaoun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
+<h3 align="center">Informatics Engineering Student</h3>
 
 <h3> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> &nbsp;About me .... </h3>
 
@@ -44,7 +45,7 @@ Hi, I'm Brian Safiudin!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en&layout=compact" alt="GitHub Most Used Languages" height="200" />
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en" alt="BrianMohamadSafiudin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en" alt="BrianMohamadSafiudin" /></p>
 </p>
 <div align="left">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
