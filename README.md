@@ -42,10 +42,10 @@ Hi, I'm Brian Safiudin!
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianMohamadSafiudin&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en&layout=compact" alt="GitHub Most Used Languages" height="200" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en&layout=compact" alt="GitHub Most Used Languages" height="200" />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en" alt="BrianMohamadSafiudin" /></p>
-
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en" alt="BrianMohamadSafiudin" /></p>
+</p>
 <div align="left">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
