@@ -41,8 +41,6 @@ Hi, I'm Brian Mohamad Safiudin!
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrianMohamadSafiudin" alt="BrianMohamadSafiudin" /></a> </p>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianMohamadSafiudin&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="330" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianMohamadSafiudin&theme=algolia&show_icons=true&locale=en&layout=compact" alt="GitHub Most Used Languages" height="190" />
@@ -53,3 +51,5 @@ Hi, I'm Brian Mohamad Safiudin!
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrianMohamadSafiudin" alt="BrianMohamadSafiudin" /></a> </p>
