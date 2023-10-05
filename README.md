@@ -52,10 +52,6 @@ Hi, I'm Brian Mohamad Safiudin!
        alt="snake" /></a>
 </div>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Achievements🏆</h2></summary>
-  </ul>
-</div>
+<br> <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrianMohamadSafiudin" alt="BrianMohamadSafiudin" /></a> </p>
