@@ -16,7 +16,7 @@ Hi, I'm Brian Mohamad Safiudin!
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 330px></picture>
 
 - 👋 Hi, I’m **@BrianMohamadSafiudin** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-- 👀 I’m interested in **Full STack** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+- 👀 I’m interested in **Full Stack Programming** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 - 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 - 📫 Feel free to reach me out **brianms2004@gmail.com** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
