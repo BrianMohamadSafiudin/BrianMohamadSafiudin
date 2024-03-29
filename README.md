@@ -17,8 +17,8 @@ Hi, I'm Brian Mohamad Safiudin!!
 
 - 👋 Hi, I’m **@BrianMohamadSafiudin** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 - 👀 I’m interested in **Full Stack Programming** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-- 🔭 I’m currently on **AWS, GCP, React, Laravel, IOT and Generative AI** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS and GCP** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+- 🔭 I’m currently on **AWS, GCP, React, Laravel, and IOT** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+- ☁️ I've keen interest in machine learning. So,I'm learning **IOT** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 - 📫 Feel free to reach me out **brianms2004@gmail.com** <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
 <h3 align="left">Connect with me:</h3>
